@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrow_docs=self.webpackChunkgrow_docs||[]).push([[195],{2841:(e,a,c)=>{c.r(a),c.d(a,{default:()=>t});var o=c(7294),r=c(6775);function t(){return o.createElement(r.l_,{to:"/ahadao/docs/actions/create_group"})}}}]);
