@@ -1,0 +1,189 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "17896441": [
+      532,
+      592,
+      918
+    ],
+    "44420497": [
+      880
+    ],
+    "main": [
+      303,
+      532,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      303
+    ],
+    "0d7c8835": [
+      398
+    ],
+    "1be78505": [
+      532,
+      592,
+      514
+    ],
+    "1f391b9e": [
+      532,
+      592,
+      85
+    ],
+    "393be207": [
+      592,
+      414
+    ],
+    "935f2afb": [
+      53
+    ],
+    "ac0070dc": [
+      592,
+      745
+    ],
+    "c4f5d8e4": [
+      195
+    ],
+    "styles": [
+      85,
+      179,
+      303,
+      514,
+      592,
+      918,
+      532
+    ],
+    "common": [
+      85,
+      414,
+      514,
+      532,
+      745,
+      918,
+      592
+    ]
+  },
+  "assets": {
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.4bd23018.js",
+          "hash": "0df08427af9c3fb5",
+          "publicPath": "/papers/assets/js/935f2afb.4bd23018.js"
+        }
+      ]
+    },
+    "85": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.c270e632.js",
+          "hash": "2fcaafbbbea2e3f8",
+          "publicPath": "/papers/assets/js/1f391b9e.c270e632.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.9f5fcf70.js",
+          "hash": "eb7d7e56e30cb157",
+          "publicPath": "/papers/assets/js/main.9f5fcf70.js"
+        }
+      ]
+    },
+    "195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.e5d281ae.js",
+          "hash": "285545cbaef8d719",
+          "publicPath": "/papers/assets/js/c4f5d8e4.e5d281ae.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.6ebde263.js",
+          "hash": "08b814be0f56589b",
+          "publicPath": "/papers/assets/js/runtime~main.6ebde263.js"
+        }
+      ]
+    },
+    "398": {
+      "js": [
+        {
+          "file": "assets/js/0d7c8835.b5cec066.js",
+          "hash": "7caba492365cf74b",
+          "publicPath": "/papers/assets/js/0d7c8835.b5cec066.js"
+        }
+      ]
+    },
+    "414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.64174f1f.js",
+          "hash": "569aef5ec4072746",
+          "publicPath": "/papers/assets/js/393be207.64174f1f.js"
+        }
+      ]
+    },
+    "514": {
+      "js": [
+        {
+          "file": "assets/js/1be78505.5932a264.js",
+          "hash": "4742f9f8c4ad0592",
+          "publicPath": "/papers/assets/js/1be78505.5932a264.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.63adeaa4.css",
+          "hash": "2633d9d7bedf8484",
+          "publicPath": "/papers/assets/css/styles.63adeaa4.css"
+        }
+      ]
+    },
+    "592": {
+      "js": [
+        {
+          "file": "assets/js/common.82ba0ec8.js",
+          "hash": "097c74b2f5cbd8d5",
+          "publicPath": "/papers/assets/js/common.82ba0ec8.js"
+        }
+      ]
+    },
+    "745": {
+      "js": [
+        {
+          "file": "assets/js/ac0070dc.ea85f8dd.js",
+          "hash": "60f41952a910f931",
+          "publicPath": "/papers/assets/js/ac0070dc.ea85f8dd.js"
+        }
+      ]
+    },
+    "880": {
+      "js": [
+        {
+          "file": "assets/js/44420497.1a45bc6f.js",
+          "hash": "a67aed99e604a377",
+          "publicPath": "/papers/assets/js/44420497.1a45bc6f.js"
+        }
+      ]
+    },
+    "918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.28b89563.js",
+          "hash": "da86f23cf2c7ea7f",
+          "publicPath": "/papers/assets/js/17896441.28b89563.js"
+        }
+      ]
+    }
+  }
+}

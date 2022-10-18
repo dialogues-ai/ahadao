@@ -1,0 +1,23 @@
+{
+  "unversionedId": "files/get_started",
+  "id": "files/get_started",
+  "title": "get_started",
+  "description": "",
+  "source": "@site/docs/files/get_started.md",
+  "sourceDirName": "files",
+  "slug": "/files/get_started",
+  "permalink": "/papers/docs/files/get_started",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/files/get_started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Game-Making",
+    "permalink": "/papers/docs/ai_regulation/gamemaking"
+  }
+}

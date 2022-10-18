@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learning repos/Web3 Onboarding copy",
+  "id": "learning repos/Web3 Onboarding copy",
+  "title": "Tips",
+  "description": "1. Go slow",
+  "source": "@site/docs/learning repos/Web3 Onboarding copy.md",
+  "sourceDirName": "learning repos",
+  "slug": "/learning repos/Web3 Onboarding copy",
+  "permalink": "/ahadao/docs/learning repos/Web3 Onboarding copy",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/ahadao/tree/main/docs/learning repos/Web3 Onboarding copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Go to the DAO page",
+    "permalink": "/ahadao/docs/get_started/join_aha_dao"
+  },
+  "next": {
+    "title": "DAOs",
+    "permalink": "/ahadao/docs/learning repos/DAOs"
+  }
+}

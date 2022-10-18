@@ -1,0 +1,23 @@
+{
+  "unversionedId": "learning repos/welcome",
+  "id": "learning repos/welcome",
+  "title": "Repos!",
+  "description": "These are pointers, not educational documents.",
+  "source": "@site/docs/learning repos/welcome.md",
+  "sourceDirName": "learning repos",
+  "slug": "/learning repos/welcome",
+  "permalink": "/papers/docs/learning repos/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/learning repos/welcome.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get the Token",
+    "permalink": "/papers/docs/get_started/token_onboarding"
+  }
+}

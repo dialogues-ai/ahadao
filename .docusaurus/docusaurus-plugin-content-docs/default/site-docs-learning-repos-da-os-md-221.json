@@ -1,0 +1,23 @@
+{
+  "unversionedId": "learning repos/DAOs",
+  "id": "learning repos/DAOs",
+  "title": "DAOs",
+  "description": "DAO Tooling",
+  "source": "@site/docs/learning repos/DAOs.md",
+  "sourceDirName": "learning repos",
+  "slug": "/learning repos/DAOs",
+  "permalink": "/ahadao/docs/learning repos/DAOs",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/ahadao/tree/main/docs/learning repos/DAOs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tips",
+    "permalink": "/ahadao/docs/learning repos/Web3 Onboarding copy"
+  }
+}

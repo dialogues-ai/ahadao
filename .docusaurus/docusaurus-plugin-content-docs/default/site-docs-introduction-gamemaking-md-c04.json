@@ -1,0 +1,19 @@
+{
+  "unversionedId": "introduction/gamemaking",
+  "id": "introduction/gamemaking",
+  "title": "Game-Making",
+  "description": "by jonny johnson",
+  "source": "@site/docs/introduction/gamemaking.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/gamemaking",
+  "permalink": "/docs/docs/introduction/gamemaking",
+  "draft": false,
+  "editUrl": "https://github.com/nomic-io/docs/tree/main/docs/introduction/gamemaking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

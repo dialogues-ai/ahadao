@@ -1,0 +1,27 @@
+{
+  "unversionedId": "introduction/access_grow",
+  "id": "introduction/access_grow",
+  "title": "Access Grow",
+  "description": "There are 3 ways to access Grow.",
+  "source": "@site/docs/introduction/access_grow.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/access_grow",
+  "permalink": "/grow-docs/docs/introduction/access_grow",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/grow-docs/tree/main/docs/introduction/access_grow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to Grow!",
+    "permalink": "/grow-docs/docs/introduction/welcome"
+  },
+  "next": {
+    "title": "Create Account",
+    "permalink": "/grow-docs/docs/setup/create-account"
+  }
+}

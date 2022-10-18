@@ -1,0 +1,27 @@
+{
+  "unversionedId": "get_started/token_onboarding",
+  "id": "get_started/token_onboarding",
+  "title": "Get the Token",
+  "description": "",
+  "source": "@site/docs/get_started/token_onboarding.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/token_onboarding",
+  "permalink": "/ahadao/docs/get_started/token_onboarding",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/ahadao/tree/main/docs/get_started/token_onboarding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start your own group",
+    "permalink": "/ahadao/docs/actions/create_group"
+  },
+  "next": {
+    "title": "Tips",
+    "permalink": "/ahadao/docs/learning repos/Web3 Onboarding copy"
+  }
+}

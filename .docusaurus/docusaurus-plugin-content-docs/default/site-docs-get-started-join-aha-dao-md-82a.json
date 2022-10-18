@@ -1,0 +1,27 @@
+{
+  "unversionedId": "get_started/join_aha_dao",
+  "id": "get_started/join_aha_dao",
+  "title": "Go to the DAO page",
+  "description": "",
+  "source": "@site/docs/get_started/join_aha_dao.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/join_aha_dao",
+  "permalink": "/ahadao/docs/get_started/join_aha_dao",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/ahadao/tree/main/docs/get_started/join_aha_dao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start your own group",
+    "permalink": "/ahadao/docs/actions/create_group"
+  },
+  "next": {
+    "title": "Tips",
+    "permalink": "/ahadao/docs/learning repos/Web3 Onboarding copy"
+  }
+}

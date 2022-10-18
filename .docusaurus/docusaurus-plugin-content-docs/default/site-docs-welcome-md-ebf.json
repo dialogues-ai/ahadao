@@ -1,0 +1,23 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "title": "Welcome!",
+  "description": "Art Hackers Alliance",
+  "source": "@site/docs/welcome.md",
+  "sourceDirName": ".",
+  "slug": "/welcome",
+  "permalink": "/ahadao/docs/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/ahadao/tree/main/docs/welcome.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Start your own group",
+    "permalink": "/ahadao/docs/actions/create_group"
+  }
+}

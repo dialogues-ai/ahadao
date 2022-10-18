@@ -1,0 +1,19 @@
+{
+  "unversionedId": "introduction/welcome",
+  "id": "introduction/welcome",
+  "title": "Game-Making",
+  "description": "by jonny johnson",
+  "source": "@site/docs/introduction/welcome.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/welcome",
+  "permalink": "/docs/docs/introduction/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/nomic-io/docs/tree/main/docs/introduction/welcome.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar"
+}

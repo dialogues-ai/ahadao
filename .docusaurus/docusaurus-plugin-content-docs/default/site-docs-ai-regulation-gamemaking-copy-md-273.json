@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ai_regulation/gamemaking copy",
+  "id": "ai_regulation/gamemaking copy",
+  "title": "Game-Making",
+  "description": "by jonny johnson",
+  "source": "@site/docs/ai_regulation/gamemaking copy.md",
+  "sourceDirName": "ai_regulation",
+  "slug": "/ai_regulation/gamemaking copy",
+  "permalink": "/papers/docs/ai_regulation/gamemaking copy",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/ai_regulation/gamemaking copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Game-Making",
+    "permalink": "/papers/docs/ai_regulation/gamemaking"
+  }
+}

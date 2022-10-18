@@ -1,0 +1,23 @@
+{
+  "unversionedId": "get_started/create_group copy",
+  "id": "get_started/create_group copy",
+  "title": "Start a group",
+  "description": "",
+  "source": "@site/docs/get_started/create_group copy.md",
+  "sourceDirName": "get_started",
+  "slug": "/get_started/create_group copy",
+  "permalink": "/papers/docs/get_started/create_group copy",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/get_started/create_group copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start a group",
+    "permalink": "/papers/docs/ai_regulation/create_group"
+  }
+}

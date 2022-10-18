@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ai_regulation/gamemaking",
+  "id": "ai_regulation/gamemaking",
+  "title": "Start a group",
+  "description": "",
+  "source": "@site/docs/ai_regulation/gamemaking.md",
+  "sourceDirName": "ai_regulation",
+  "slug": "/ai_regulation/gamemaking",
+  "permalink": "/papers/docs/ai_regulation/gamemaking",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/ai_regulation/gamemaking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start a group",
+    "permalink": "/papers/docs/ai_regulation/create_group"
+  },
+  "next": {
+    "title": "Start a group",
+    "permalink": "/papers/docs/get_started/create_group copy"
+  }
+}

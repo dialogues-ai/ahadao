@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setup/create-account",
+  "id": "setup/create-account",
+  "title": "Create Account",
+  "description": "Follow these steps to create your account.",
+  "source": "@site/docs/setup/create-account.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/create-account",
+  "permalink": "/docs/docs/setup/create-account",
+  "draft": false,
+  "editUrl": "https://github.com/nomic-io/docs/tree/main/docs/setup/create-account.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to Nomic!",
+    "permalink": "/docs/docs/introduction/welcome"
+  },
+  "next": {
+    "title": "Known Bugs",
+    "permalink": "/docs/docs/frequent-errors"
+  }
+}

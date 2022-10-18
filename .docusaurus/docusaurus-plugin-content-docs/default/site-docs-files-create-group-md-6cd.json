@@ -1,0 +1,23 @@
+{
+  "unversionedId": "files/create_group",
+  "id": "files/create_group",
+  "title": "Start a group",
+  "description": "",
+  "source": "@site/docs/files/create_group.md",
+  "sourceDirName": "files",
+  "slug": "/files/create_group",
+  "permalink": "/papers/docs/files/create_group",
+  "draft": false,
+  "editUrl": "https://github.com/dialogues-ai/papers/tree/main/docs/files/create_group.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start a group",
+    "permalink": "/papers/docs/ai_regulation/gamemaking"
+  }
+}

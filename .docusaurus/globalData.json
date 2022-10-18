@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ahadao/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ahadao/docs",
+          "mainDocId": "welcome",
+          "docs": [
+            {
+              "id": "actions/create_group",
+              "path": "/ahadao/docs/actions/create_group",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_started/join_aha_dao",
+              "path": "/ahadao/docs/get_started/join_aha_dao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "learning repos/DAOs",
+              "path": "/ahadao/docs/learning repos/DAOs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "learning repos/Web3 Onboarding copy",
+              "path": "/ahadao/docs/learning repos/Web3 Onboarding copy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "welcome",
+              "path": "/ahadao/docs/welcome",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ahadao/docs/welcome",
+                "label": "welcome"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
