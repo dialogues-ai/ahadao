@@ -8,5 +8,5 @@ import React from 'react';
 import {Redirect} from '@docusaurus/router';
 
 export default function Home() {
-  return <Redirect to="/ahadao/docs/actions/create_group" />;
+  return <Redirect to="/ahadao/docs/welcome" />;
 }

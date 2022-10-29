@@ -67,7 +67,7 @@ const config = {
       // image: 'img/banner.jpeg',
       navbar: {
         title: '',
-        hideOnScroll: true,
+        hideOnScroll: false,
         logo: {
           alt: 'AHA DAO',
           src: 'img/aha_logo.png',
@@ -76,7 +76,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'actions/create_group', 
+            docId: 'welcome', 
             position: 'left',
             label: 'Docs',
           },

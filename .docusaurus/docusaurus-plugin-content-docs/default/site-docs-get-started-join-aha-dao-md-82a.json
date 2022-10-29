@@ -17,11 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Start your own group",
-    "permalink": "/ahadao/docs/actions/create_group"
-  },
-  "next": {
-    "title": "Tips",
-    "permalink": "/ahadao/docs/learning repos/Web3 Onboarding copy"
+    "title": "Welcome!",
+    "permalink": "/ahadao/docs/welcome"
   }
 }

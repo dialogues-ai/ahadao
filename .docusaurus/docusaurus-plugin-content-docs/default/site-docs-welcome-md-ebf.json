@@ -2,7 +2,7 @@
   "unversionedId": "welcome",
   "id": "welcome",
   "title": "Welcome!",
-  "description": "Art Hackers Alliance",
+  "description": "{Welcome message here} Art Hackers Alliance",
   "source": "@site/docs/welcome.md",
   "sourceDirName": ".",
   "slug": "/welcome",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Start your own group",
-    "permalink": "/ahadao/docs/actions/create_group"
+    "title": "Go to the DAO page",
+    "permalink": "/ahadao/docs/get_started/join_aha_dao"
   }
 }

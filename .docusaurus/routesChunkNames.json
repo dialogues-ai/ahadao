@@ -1,86 +1,31 @@
 {
-  "/ahadao/__docusaurus/debug-737": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    }
-  },
-  "/ahadao/__docusaurus/debug/config-376": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    }
-  },
-  "/ahadao/__docusaurus/debug/content-196": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    },
-    "allContent": "allContent---ahadao-docusaurus-debug-content-246-eca"
-  },
-  "/ahadao/__docusaurus/debug/globalData-dce": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    }
-  },
-  "/ahadao/__docusaurus/debug/metadata-344": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    }
-  },
-  "/ahadao/__docusaurus/debug/registry-97f": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    }
-  },
-  "/ahadao/__docusaurus/debug/routes-33e": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---ahadao-docusaurus-debug-5-fe-647"
-    }
-  },
   "/ahadao/markdown-page-a83": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---ahadao-markdown-pagef-0-b-741"
+      "plugin": "f0bba64d"
     },
-    "content": "content---ahadao-markdown-page-393-979"
+    "content": "393be207"
   },
-  "/ahadao/docs-033": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/ahadao/docs-a90": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---ahadao-docse-5-d-6b8"
+      "plugin": "e5d071b8"
     },
-    "versionMetadata": "versionMetadata---ahadao-docs-935-6f6"
-  },
-  "/ahadao/docs/actions/create_group-ad9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ahadao-docs-actions-create-group-696-983"
+    "versionMetadata": "935f2afb"
   },
   "/ahadao/docs/get_started/join_aha_dao-b68": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ahadao-docs-get-started-join-aha-dao-82-a-7be"
-  },
-  "/ahadao/docs/learning repos/DAOs-cca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ahadao-docs-learning-repos-da-os-221-39c"
-  },
-  "/ahadao/docs/learning repos/Web3 Onboarding copy-ddc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ahadao-docs-learning-repos-web-3-onboarding-copyafd-f85"
+    "__comp": "17896441",
+    "content": "82affd3e"
   },
   "/ahadao/docs/welcome-017": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ahadao-docs-welcomeebf-56d"
+    "__comp": "17896441",
+    "content": "ebfee794"
   },
   "/ahadao/-6d1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---ahadao-markdown-pagef-0-b-741"
+      "plugin": "f0bba64d"
     },
-    "config": "config---ahadao-5-e-9-0d5"
+    "config": "5e9f5e1a"
   }
 }

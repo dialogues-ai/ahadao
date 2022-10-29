@@ -43,7 +43,7 @@ export default {
     },
     "navbar": {
       "title": "",
-      "hideOnScroll": true,
+      "hideOnScroll": false,
       "logo": {
         "alt": "AHA DAO",
         "src": "img/aha_logo.png",
@@ -52,7 +52,7 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "actions/create_group",
+          "docId": "welcome",
           "position": "left",
           "label": "Docs"
         }

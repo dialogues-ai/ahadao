@@ -11,23 +11,8 @@
           "mainDocId": "welcome",
           "docs": [
             {
-              "id": "actions/create_group",
-              "path": "/ahadao/docs/actions/create_group",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "get_started/join_aha_dao",
               "path": "/ahadao/docs/get_started/join_aha_dao",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "learning repos/DAOs",
-              "path": "/ahadao/docs/learning repos/DAOs",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "learning repos/Web3 Onboarding copy",
-              "path": "/ahadao/docs/learning repos/Web3 Onboarding copy",
               "sidebar": "tutorialSidebar"
             },
             {
